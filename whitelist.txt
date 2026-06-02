@@ -116,3 +116,4 @@ rosneft.ru
 nornickel.ru
 glonass.ru
 roskachestvo.gov.ru
+.ru
