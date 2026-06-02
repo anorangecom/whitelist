@@ -21,6 +21,7 @@ yandex.kz
 yandex.com
 wildberries.ru
 ozon.ru
+ozone.ru
 avito.ru
 megamarket.ru
 goods.ru
