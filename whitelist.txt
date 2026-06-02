@@ -2,7 +2,7 @@
 # Compiled from official and community sources as of June 2026
 # Format: one domain per line (second-level domains)
 
-.ru
+ru
 sberbank.ru
 sber.ru
 vtb.ru
