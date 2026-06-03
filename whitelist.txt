@@ -2,7 +2,6 @@
 # Compiled from official and community sources as of June 2026
 # Format: one domain per line (second-level domains)
 
-ru
 sberbank.ru
 sber.ru
 vtb.ru
@@ -118,4 +117,5 @@ rosneft.ru
 nornickel.ru
 glonass.ru
 roskachestvo.gov.ru
-
+#test url
+ip.me
